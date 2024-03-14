@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\OneDrive\\Escritorio\\api\\Netcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F48EAF3E-60A4-4268-B47C-EB38F3CDF3A0}|Netcore\\Netcore.csproj|c:\\users\\eduar\\onedrive\\escritorio\\api\\netcore\\netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48EAF3E-60A4-4268-B47C-EB38F3CDF3A0}|Netcore\\Netcore.csproj|solutionrelative:netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CBCEF4-EFA4-4447-ABC5-CD5A339E7555}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\eduar\\onedrive\\escritorio\\api\\netcore\\classlibrary\\bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CBCEF4-EFA4-4447-ABC5-CD5A339E7555}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CBCEF4-EFA4-4447-ABC5-CD5A339E7555}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\eduar\\onedrive\\escritorio\\api\\netcore\\classlibrary\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CBCEF4-EFA4-4447-ABC5-CD5A339E7555}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48EAF3E-60A4-4268-B47C-EB38F3CDF3A0}|Netcore\\Netcore.csproj|c:\\users\\eduar\\onedrive\\escritorio\\api\\netcore\\netcore\\controller\\homen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48EAF3E-60A4-4268-B47C-EB38F3CDF3A0}|Netcore\\Netcore.csproj|solutionrelative:netcore\\controller\\homen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Escritorio\\api\\Netcore\\Netcore\\Program.cs",
+              "RelativeDocumentMoniker": "Netcore\\Program.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Escritorio\\api\\Netcore\\Netcore\\Program.cs",
+              "RelativeToolTip": "Netcore\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T22:29:20.457Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Homen.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Escritorio\\api\\Netcore\\Netcore\\controller\\Homen.cs",
+              "RelativeDocumentMoniker": "Netcore\\controller\\Homen.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Escritorio\\api\\Netcore\\Netcore\\controller\\Homen.cs",
+              "RelativeToolTip": "Netcore\\controller\\Homen.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:18:01.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BL.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Escritorio\\api\\Netcore\\ClassLibrary\\BL.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\BL.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Escritorio\\api\\Netcore\\ClassLibrary\\BL.cs",
+              "RelativeToolTip": "ClassLibrary\\BL.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:51:45.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Escritorio\\api\\Netcore\\ClassLibrary\\DAL.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\DAL.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Escritorio\\api\\Netcore\\ClassLibrary\\DAL.cs",
+              "RelativeToolTip": "ClassLibrary\\DAL.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAswFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:01:22.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

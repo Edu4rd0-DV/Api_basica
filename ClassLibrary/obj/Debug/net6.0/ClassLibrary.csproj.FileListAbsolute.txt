@@ -1,0 +1,12 @@
+C:\Users\eduar\OneDrive\Escritorio\api\Netcore\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\eduar\OneDrive\Escritorio\api\Netcore\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\eduar\OneDrive\Escritorio\api\Netcore\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\eduar\OneDrive\Escritorio\api\Netcore\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Escritorio\api\Netcore\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\Escritorio\api\Netcore\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Escritorio\api\Netcore\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Escritorio\api\Netcore\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Escritorio\api\Netcore\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\eduar\OneDrive\Escritorio\api\Netcore\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\eduar\OneDrive\Escritorio\api\Netcore\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\eduar\OneDrive\Escritorio\api\Netcore\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
